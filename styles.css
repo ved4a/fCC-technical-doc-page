@@ -1,6 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap");
+
 body {
   display: flex;
   flex-direction: row;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(35, 35, 36);
+  line-height: 1.5;
+  background-color: whitesmoke;
 }
 
 #navbar {
@@ -11,5 +17,4 @@ body {
 
 #main-doc {
   width: 75%;
-  background-color: rgb(6, 6, 107);
 }
