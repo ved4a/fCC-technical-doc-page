@@ -18,3 +18,13 @@ body {
 #main-doc {
   width: 75%;
 }
+
+.nav-link {
+  text-decoration: none;
+  color: rgb(35, 35, 36);
+  line-height: 1.5;
+}
+
+#ul-navbar li {
+  list-style-type: none;
+}
