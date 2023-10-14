@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+#navbar {
+  height: 100vh;
+  width: 25%;
+  background-color: lightblue;
+}
+
+#main-doc {
+  width: 75%;
+  background-color: rgb(6, 6, 107);
+}
